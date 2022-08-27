@@ -1,7 +1,7 @@
 import React from "react";
 import { FaAngleDoubleDown } from "react-icons/fa";
 import "./Home.css";
-import ProfilePhoto from "../assets/my-photo.jpg";
+import ProfilePhoto from "../assets/my-photo.png";
 import MyLogo from "./MyLogo";
 
 const Home = () => {
